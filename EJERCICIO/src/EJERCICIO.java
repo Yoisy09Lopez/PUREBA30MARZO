@@ -41,7 +41,7 @@ public class EJERCICIO {
         System.out.println("11 CALLE 2-43 ZONA 5 COLONIA LOS ENCINOS");
         System.out.println("33361433");
         
-        System.out.println("JOsé Dagoberto Pérez Villatoro");
+        System.out.println("José Dagoberto Pérez Villatoro");
         System.out.println("2da avenida b 9-20 zona 3");
         System.out.println("32801288");
         
