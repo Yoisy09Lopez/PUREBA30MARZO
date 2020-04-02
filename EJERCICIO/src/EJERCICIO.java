@@ -45,6 +45,10 @@ public class EJERCICIO {
         System.out.println("2da avenida b 9-20 zona 3");
         System.out.println("32801288");
         
+        System.out.println("Nombre: Yoisy Yareny Lopez Herrea");
+        System.out.println("Direccion, Zona 4, Huehuetenango");
+        System.out.println("Telefono: 45517447");
+        
     }
     
 }
